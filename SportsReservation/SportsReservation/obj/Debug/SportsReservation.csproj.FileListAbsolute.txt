@@ -1,0 +1,26 @@
+C:\Users\Леночка\documents\visual studio 2017\Projects\SportsReservation\SportsReservation\bin\Debug\SportsReservation.exe.config
+C:\Users\Леночка\documents\visual studio 2017\Projects\SportsReservation\SportsReservation\bin\Debug\SportsReservation.exe
+C:\Users\Леночка\documents\visual studio 2017\Projects\SportsReservation\SportsReservation\bin\Debug\SportsReservation.pdb
+C:\Users\Леночка\documents\visual studio 2017\Projects\SportsReservation\SportsReservation\bin\Debug\MetroFramework.dll
+C:\Users\Леночка\documents\visual studio 2017\Projects\SportsReservation\SportsReservation\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Леночка\documents\visual studio 2017\Projects\SportsReservation\SportsReservation\obj\Debug\SportsReservation.Properties.Resources.resources
+C:\Users\Леночка\documents\visual studio 2017\Projects\SportsReservation\SportsReservation\obj\Debug\SportsReservation.csproj.GenerateResource.Cache
+C:\Users\Леночка\documents\visual studio 2017\Projects\SportsReservation\SportsReservation\obj\Debug\SportsReservation.exe
+C:\Users\Леночка\documents\visual studio 2017\Projects\SportsReservation\SportsReservation\obj\Debug\SportsReservation.pdb
+C:\Users\Леночка\documents\visual studio 2017\Projects\SportsReservation\SportsReservation\obj\Debug\SportsReservation.fMain.resources
+C:\Users\Леночка\documents\visual studio 2017\Projects\SportsReservation\SportsReservation\obj\Debug\SportsReservation.csprojResolveAssemblyReference.cache
+C:\Users\Леночка\documents\visual studio 2017\Projects\SportsReservation\SportsReservation\bin\Debug\Order.mdf
+C:\Users\Леночка\documents\visual studio 2017\Projects\SportsReservation\SportsReservation\bin\Debug\Order_log.ldf
+C:\Users\Леночка\Desktop\Финиш\SportsReservation\SportsReservation\bin\Debug\Order.mdf
+C:\Users\Леночка\Desktop\Финиш\SportsReservation\SportsReservation\bin\Debug\Order_log.ldf
+C:\Users\Леночка\Desktop\Финиш\SportsReservation\SportsReservation\bin\Debug\SportsReservation.exe.config
+C:\Users\Леночка\Desktop\Финиш\SportsReservation\SportsReservation\bin\Debug\SportsReservation.exe
+C:\Users\Леночка\Desktop\Финиш\SportsReservation\SportsReservation\bin\Debug\SportsReservation.pdb
+C:\Users\Леночка\Desktop\Финиш\SportsReservation\SportsReservation\bin\Debug\MetroFramework.dll
+C:\Users\Леночка\Desktop\Финиш\SportsReservation\SportsReservation\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Леночка\Desktop\Финиш\SportsReservation\SportsReservation\obj\Debug\SportsReservation.csprojResolveAssemblyReference.cache
+C:\Users\Леночка\Desktop\Финиш\SportsReservation\SportsReservation\obj\Debug\SportsReservation.Properties.Resources.resources
+C:\Users\Леночка\Desktop\Финиш\SportsReservation\SportsReservation\obj\Debug\SportsReservation.csproj.GenerateResource.Cache
+C:\Users\Леночка\Desktop\Финиш\SportsReservation\SportsReservation\obj\Debug\SportsReservation.exe
+C:\Users\Леночка\Desktop\Финиш\SportsReservation\SportsReservation\obj\Debug\SportsReservation.pdb
+C:\Users\Леночка\Desktop\Финиш\SportsReservation\SportsReservation\obj\Debug\SportsReservation.fSubscription.resources
